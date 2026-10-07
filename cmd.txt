@@ -1,0 +1,1 @@
+LIBRARY_PATH="$(brew --prefix sdl2)/lib" cargo run ~/Pictures/AI_images/AI_image_copy.ppm
